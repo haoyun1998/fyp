@@ -1,0 +1,73 @@
+.phone-img img {
+	height: 400px;
+	width: 385px;
+	float: left;
+	margin: 0 4%;
+}
+
+h1 {
+	padding: 2%;
+}
+
+.content {
+	margin: 5%;
+	background-color: white;
+/*	border-radius: 5px;*/
+	padding-bottom: 5%;
+}
+
+body {
+	background-color: rgb(222, 225, 230);
+}
+
+.phone-description {
+/*	float: left;*/
+	height: 400px;
+	padding-top: 2%;
+}
+
+.phone-description p {
+	color: gray;
+}
+
+.item {
+	margin-bottom: 5%;
+}
+
+/*Filter*/
+.content2 label {
+	margin: 20%;
+}
+
+.content2 {
+	margin: 5%;
+	background-color: white;
+/*	border-radius: 5px;*/
+	padding-bottom: 2%;
+}
+
+.content2 label {
+	margin: 2% 0;
+	width: 100px;
+}
+
+.content2 input[type=text], select {
+	width: 30%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+  	box-sizing: border-box;
+}
+
+.content2 form {
+	padding: 0 2%;
+}
+/*Filter*/
+
+
+	
+
+
+
+	
